@@ -1,2 +1,2 @@
-# -Coursera_Capstone
+# Coursera_Capstone
 First project for Capstone
